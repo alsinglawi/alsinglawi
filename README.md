@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alsinglawi
 - 👀 Interested in Data science, Machine learning, Deep learning, and Artificial intelligence in Health an Supply Chain Management 
 - 🌱 I’m currently having Google Data Analytics Certificate and AI for Medicine Specialization
-- 💞️ I’m looking to collaborate on Healthcare analytics with R and Python
+- 💞️ I’m looking to collaborate on Healthcare analytics project with R and Python
 - 📫 How to reach me: alsinglawi@gmail.com
 
 <!---
